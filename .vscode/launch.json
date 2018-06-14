@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        },
+    {
+        "type": "java",
+        "name": "Debug (Launch)",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "console": "internalConsole",
+        "stopOnEntry": false,
+        "mainClass": "",
+        "args": ""
+    },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Count1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Filter1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Filter1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Filter2<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Filter2",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindFirst1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.FindFirst1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEach1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.ForEach1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HowForEachWorks<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.HowForEachWorks",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntStream1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.IntStream1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LambdaDemo<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.LambdaDemo",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LambdaDemo1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.LambdaDemo1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Limit1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Limit1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-List1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.List1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Map2<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Map2",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Map3<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Map3",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MapToInt1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.MapToInt1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Match<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Match",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxMin1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.MaxMin1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Peek1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Peek1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Reduce1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Reduce1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Reduce2<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Reduce2",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Reduce3<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Reduce3",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Skip1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Skip1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sorted1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.Sorted1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ToArray1<stream1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgfsl.ToArray1",
+            "projectName": "stream1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
